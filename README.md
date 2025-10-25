@@ -1,7 +1,7 @@
-<div style="display: flex; justify-content: center; align-items: center;">
-  <img src="/static/logo/logo.png" alt="logo" style="height: 40px; margin-right: 15px;">
-  <h1>SubProtoX</h1>
-</div>
+<h1 align="center">
+  <img src="./static/logo/logo.png" alt="logo" width="40" style="vertical-align: middle; margin-right: 10px;">
+  SubProtoX
+</h1>
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.7+](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/)
