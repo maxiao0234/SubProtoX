@@ -1,13 +1,7 @@
-<table style="width:100%; border:none;">
-  <tr>
-    <td style="width: 50%; text-align: right; border:none; padding-right: 15px;">
-      <img src="/static/logo/logo.png" alt="logo" style="vertical-align: middle; height: 40px;">
-    </td>
-    <td style="width: 50%; text-align: left; border:none; padding-left: 0;">
-      <h1 style="display: inline; vertical-align: middle; margin: 0;">SubProtoX</h1>
-    </td>
-  </tr>
-</table>
+<div style="display: flex; justify-content: center; align-items: center;">
+  <img src="/static/logo/logo.png" alt="logo" style="height: 40px; margin-right: 15px;">
+  <h1>SubProtoX</h1>
+</div>
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.7+](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/)
