@@ -1,6 +1,14 @@
-<div style="display: flex; justify-content: center; align-items: center;">
-  <img src="./static/logo/logo.png" alt="logo" width="60" style="margin-right: 10px;">
-  <h1 style="font-size: 40px; margin: 0; border-bottom: none;">SubProtoX</h1>
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="./static/logo/logo.png" alt="logo" width="60" style="margin-right: 10px;">
+      </td>
+      <td>
+        <h1 style="font-size: 38px; margin: 0; border-bottom: none;">SubProtoX</h1>
+      </td>
+    </tr>
+  </table>
 </div>
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
